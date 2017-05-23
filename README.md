@@ -1,8 +1,9 @@
 # Estático
 
-Static site generator for frontend unicorns. 
+Static site generator for frontend unicorns.
 
 Estático has been born as a result of a collective work of our frontend team. We use it in our daily work for rapid creation of clean, modern, maintainable static websites.
+
 
 ## See it in action
 
